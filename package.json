@@ -32,5 +32,8 @@
 		"tslib": "^2.4.0",
 		"typescript": "^4.7.4"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@mediapipe/pose": "^0.5.1635988162"
+	}
 }
